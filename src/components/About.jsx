@@ -48,7 +48,7 @@ const About = () => {
 
             <div className="mt-8 pt-6 border-t border-gray-200 grid grid-cols-2 md:grid-cols-4 gap-4">
               <div className="text-center glass-card p-4">
-                <div className="text-3xl text-success font-bold">2+</div>
+                <div className="text-3xl text-$teal-500 font-bold">2+</div>
                 <div className="text-gray-800">Años de Experiencia</div>
               </div>
               <div className="text-center glass-card p-4">
