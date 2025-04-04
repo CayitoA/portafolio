@@ -1,0 +1,21 @@
+{
+  "email": "astorga2004@hotmail.com",
+  "socialMedia": [
+    {
+      "name": "LinkedIn",
+      "url": "www.linkedin.com/in/claudio-astorga-arancibia",
+      "icon": "linkedin"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/CayitoA",
+      "icon": "github"
+    },
+    {
+      "name": "Behance",
+      "url": "https://www.behance.net/claudioastorga",
+      "icon": "behance"
+    }
+    
+  ]
+}
