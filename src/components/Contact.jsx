@@ -96,9 +96,8 @@ const Contact = () => {
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-bold">Contacto</h2>
           <div className="w-20 h-1 bg-secondary mx-auto mt-4 mb-6"></div>
-          <p className="text-gray-600 max-w-2xl mx-auto">
-            ¿Interesado en trabajar juntos? Contacta conmigo a través de las
-            siguientes opciones.
+          <p className="text-gray-800 max-w-2xl mx-auto">
+            ¿Trabajamos juntos? Te puedes contactar conmigo por mail y ver mas de mí trabajo en mis redes sociales.
           </p>
         </div>
 

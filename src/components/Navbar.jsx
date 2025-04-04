@@ -17,7 +17,7 @@ const Navbar = () => {
 
   const navLinks = [
     { name: "Inicio", href: "#home" },
-    { name: "Sobre Mí", href: "#about" },
+    { name: "Acerca de mí", href: "#about" },
     { name: "Proyectos", href: "#projects" },
     { name: "Contacto", href: "#contact" },
   ];
@@ -32,7 +32,7 @@ const Navbar = () => {
     >
       <div className="container mx-auto px-6 flex justify-between items-center">
         <a href="#home" className="text-xl font-bold text-primary">
-          Portfolio
+          Portafolio
         </a>
 
         {/* Desktop Navigation */}

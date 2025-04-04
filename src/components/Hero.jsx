@@ -26,7 +26,7 @@ const Hero = () => {
     >
       <div className="container mx-auto px-6 flex flex-col-reverse md:flex-row items-center justify-between">
         <div className="md:w-1/2 text-center md:text-left animate-fade-in">
-          <p className="text-secondary text-lg mb-2">Hola, soy</p>
+          <p className="text-success text-lg mb-2">Portafolio</p>
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4">
             {personal.name}
           </h1>
@@ -39,7 +39,7 @@ const Hero = () => {
           <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
             <a
               href="#projects"
-              className="inline-block bg-secondary hover:bg-secondary/90 text-white py-3 px-8 rounded-lg shadow-lg transition-colors"
+              className="inline-block bg-success hover:bg-success/90 text-white py-3 px-8 rounded-lg shadow-lg transition-colors"
             >
               Ver Proyectos
             </a>
