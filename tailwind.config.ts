@@ -27,10 +27,10 @@ export default {
 				foreground: 'hsl(var(--foreground))',
 				primary: {
 					DEFAULT: 'hsl(var(--primary))',
-					foreground: 'hsl(var(--primary-foreground))'
+					foreground: 'hsl(var(--secondary-foreground))'
 				},
 				secondary: {
-					DEFAULT: 'hsl(var(--success))',
+					DEFAULT: 'hsl(var(--secondary))',
 					foreground: 'hsl(var(--ssuccess-foreground))'
 				},
 				destructive: {
