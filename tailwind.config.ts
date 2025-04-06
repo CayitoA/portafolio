@@ -30,7 +30,7 @@ export default {
 					foreground: 'hsl(var(--secondary-foreground))'
 				},
 				secondary: {
-					DEFAULT: '#00c950',
+					DEFAULT: '#00c043',
 					foreground: 'hsl(var(--ssuccess-foreground))'
 				},
 				destructive: {

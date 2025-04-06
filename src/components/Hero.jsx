@@ -27,10 +27,10 @@ const Hero = () => {
       <div className="container mx-auto px-6 flex flex-col-reverse md:flex-row items-center justify-between">
         <div className="md:w-1/2 text-center md:text-left animate-fade-in">
           <p className="text-secondary text-lg mb-2">Portafolio</p>
-          <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4">
+          <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4 text-primary">
             {personal.name}
           </h1>
-          <h2 className="text-2xl md:text-3xl text-gray-600 mb-6">
+          <h2 className="text-2xl md:text-3xl text-gray-700 mb-6">
             {personal.profession}
           </h2>
           <p className="text-lg text-gray-700 mb-8 max-w-lg mx-auto md:mx-0">
