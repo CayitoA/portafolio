@@ -85,7 +85,7 @@ const Projects = () => {
     <section id="projects" className="bg-gradient-to-b from-background to-muted">
       <div className="container mx-auto">
         <div className="text-center mb-12">
-          <h2 className="text-3xl md:text-4xl font-bold">Proyectos Realizados</h2>
+          <h2 className="text-3xl md:text-4xl font-bold text-primary">Proyectos Realizados</h2>
           <div className="w-20 h-1 bg-secondary mx-auto mt-4 mb-6"></div>
           <p className="text-gray-600 max-w-2xl mx-auto">
             A continuación una breve muestra de los proyectos que he realizado. Cada

@@ -24,7 +24,7 @@ const About = () => {
     <section id="about" className="bg-white">
       <div className="container mx-auto">
         <div className="text-center mb-12">
-          <h2 className="text-3xl md:text-4xl font-bold">Acerca de mí</h2>
+          <h2 className="text-3xl md:text-4xl font-bold text-primary">Acerca de mí</h2>
           <div className="w-20 h-1 bg-secondary mx-auto mt-4 mb-6"></div>
         </div>
 
