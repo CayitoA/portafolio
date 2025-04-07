@@ -3,15 +3,15 @@
     "id": 1,
     "name": "Proyecto Hospital",
     "description": "Ejercicio desarrollado durante el curso sitio Clinica Salud.",
-    "image": "https://images.unsplash.com/photo-1661956602116-aa6865609028?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxzZWFyY2h8MXx8ZWNvbW1lcmNlfGVufDB8fDB8fHww",
-    "liveUrl": "https://myecommerce-project.netlify.app",
+    "image": "https://cayitoa.github.io/borrador/assets/img/pantalla.jpg",
+    "liveUrl": "https://m5-ejercicio4.vercel.app/",
     "githubUrl": "https://github.com/janedoe/ecommerce-platform",
-    "tags": ["React", "Node.js", "Stripe"]
+    "tags": ["React", "Node.js"]
   },
   {
     "id": 2,
     "name": "Proyecto Inicial",
-    "description": "Modulo 2: Tarea 1 proyecto hospital.",
+    "description": "Tarea 1 Proyecto Hospital.",
     "image": "https://cayitoa.github.io/borrador/assets/img/Captura%20de%20pantalla%202025-04-06%20a%20la(s)%2012.01.40.png",
     "liveUrl": "https://cayitoa.github.io/Hospital-ejercicio1/",
     "githubUrl": "https://github.com/CayitoA/Hospital-ejercicio1.git",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "name": "Proyecto Personal",
-    "description": "Sitio web personal RedHUnt.",
+    "description": "Sitio web personal RedHunt.",
     "image": "https://cayitoa.github.io/borrador/assets/img/RH1.jpg",
     "liveUrl": "https://www.redhunt.cl/",
     "githubUrl": "https://github.com/CayitoA/RedHunt",
